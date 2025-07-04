@@ -1,34 +1,141 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# あの頃ソング (Ano Koro Song)
 
-## Getting Started
+## プロジェクト概要
 
-First, run the development server:
+「年代ソングセレクター」は、ユーザーが自分の年齢をもとに年代（10 代〜90 代）を選択すると、その年代を代表する楽曲を一覧で表示する Web アプリケーションです。
+
+各年代には、その時代の社会背景や文化を反映したコメントと代表曲が定義されており、選択された年代に応じた曲リストが画面に表示されます。
+
+## 主な機能
+
+- **年代選択**: スライダーまたはボタンで 10 代〜90 代を選択
+- **時代背景コメント**: 各年代の社会背景と文化を説明
+- **楽曲リスト**: 選択した年代の代表曲一覧表示
+- **レスポンシブデザイン**: スマートフォンから PC まで対応
+- **ダークモード**: Material Design 準拠の美しい UI
+
+## 技術スタック
+
+- **フレームワーク**: Next.js 15
+- **言語**: TypeScript
+- **スタイリング**: Tailwind CSS
+- **デザイン**: Material Design 3 準拠
+- **データ**: JSON 形式の楽曲データ
+
+## セットアップ
+
+### 前提条件
+
+- Node.js 18.0.0 以上
+- npm または yarn
+
+### インストール
+
+1. リポジトリをクローン
+
+```bash
+git clone <repository-url>
+cd ano-koro-song
+```
+
+2. 依存関係をインストール
+
+```bash
+npm install
+```
+
+3. 開発サーバーを起動
 
 ```bash
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+4. ブラウザで `http://localhost:3000` にアクセス
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+### ビルド
 
-## Learn More
+```bash
+npm run build
+npm start
+```
 
-To learn more about Next.js, take a look at the following resources:
+## プロジェクト構造
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+```
+ano-koro-song/
+├── app/
+│   ├── data/
+│   │   └── songs.json          # 楽曲データ
+│   ├── lib/
+│   │   └── songs.ts            # 楽曲データ操作ユーティリティ
+│   ├── types/
+│   │   └── song.ts             # TypeScript型定義
+│   ├── globals.css             # グローバルスタイル
+│   ├── layout.tsx              # ルートレイアウト
+│   └── page.tsx                # メインページ
+├── docs/                       # ドキュメント
+│   ├── requirements.md         # 要件定義書
+│   ├── ui設計指針.md           # UI設計指針
+│   ├── ui定義書.md             # UI定義書
+│   └── uiビジュアル仕様書.md   # UIビジュアル仕様書
+└── package.json
+```
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+## データ構造
 
-## Deploy on Vercel
+楽曲データは `app/data/songs.json` に以下の形式で格納されています：
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+```json
+[
+  {
+    "age_group": "90s",
+    "comment": "時代背景の説明",
+    "songs": [
+      {
+        "title": "曲名",
+        "artist": "アーティスト名",
+        "year": 1945,
+        "note": "曲の説明"
+      }
+    ]
+  }
+]
+```
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+## デザイン指針
+
+- **Material Design 3**: Google の Material Design に準拠
+- **ダークモード**: 目に優しいダークテーマ
+- **アクセシビリティ**: キーボード操作とスクリーンリーダー対応
+- **レスポンシブ**: モバイルファーストのデザイン
+
+## 開発
+
+### コマンド
+
+- `npm run dev`: 開発サーバー起動
+- `npm run build`: プロダクションビルド
+- `npm run start`: プロダクションサーバー起動
+- `npm run lint`: ESLint 実行
+
+### コード規約
+
+- TypeScript の厳密な型チェック
+- ESLint によるコード品質管理
+- Prettier によるコードフォーマット
+
+## ライセンス
+
+このプロジェクトは MIT ライセンスの下で公開されています。
+
+## 貢献
+
+プルリクエストやイシューの報告を歓迎します。貢献する前に、既存のイシューを確認してください。
+
+## 更新履歴
+
+- v0.1.0: 初期リリース
+  - 年代選択機能
+  - 楽曲リスト表示
+  - Material Design 準拠 UI
+  - レスポンシブデザイン
