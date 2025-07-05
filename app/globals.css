@@ -121,3 +121,21 @@ button:active:not(:disabled) {
     transition-duration: 0.01ms !important;
   }
 }
+
+/* 画像の拡大表示を防ぐ */
+img {
+  max-width: 100%;
+  height: auto;
+  object-fit: contain;
+  object-position: center;
+}
+
+/* 楽曲カード内の画像サイズを固定 */
+.song-card img {
+  width: 64px;
+  height: 64px;
+  object-fit: contain;
+  object-position: center;
+  flex-shrink: 0;
+  background-color: #2a2a2a;
+}

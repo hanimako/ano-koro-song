@@ -1,6 +1,7 @@
 "use client";
 
 import { useState, useEffect } from "react";
+import Image from "next/image";
 import { getAgeGroups, getAgeGroupByIndex } from "./lib/songs";
 import { AgeGroup } from "./types/song";
 
@@ -32,15 +33,22 @@ export default function Home() {
 
   const getAgeLabel = (index: number) => {
     const ageGroup = ageGroups[index];
-    return `${ageGroup}歳代`;
+    return (
+      <>
+        {ageGroup}
+        <span className="text-sm">歳代</span>
+      </>
+    );
   };
 
   return (
     <main className="min-h-screen bg-[#121212] text-[#EDEDED]">
-      <div className="mx-auto max-w-screen-md p-4 sm:p-6 space-y-6">
+      <div className="mx-auto max-w-screen-xl p-4 sm:p-6 space-y-6">
         {/* ヘッダー */}
         <header className="text-center">
-          <h1 className="text-2xl font-bold text-[#EDEDED]">名曲年代ガイド</h1>
+          <h1 className="text-2xl font-bold text-[#EDEDED]">
+            年代ごとの人気曲
+          </h1>
         </header>
 
         {/* 年代選択セクション */}
@@ -134,24 +142,49 @@ export default function Home() {
         {/* 楽曲リスト */}
         {ageGroupData && (
           <section className="space-y-4">
-            <h3 className="text-lg font-semibold text-[#EDEDED]">曲</h3>
-            <div className="space-y-3">
+            <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
               {ageGroupData.songs.map((song, index) => (
                 <div
                   key={index}
                   className="bg-[#1E1E1E] p-4 rounded-xl border border-[#2A2A2A] shadow-md card-hover"
                 >
-                  <div className="space-y-2">
-                    <h4 className="text-lg font-semibold text-[#EDEDED]">
-                      {song.title}
-                    </h4>
-                    <p className="text-sm text-gray-400">{song.artist}</p>
-                    <div className="flex items-center space-x-4 text-xs text-gray-500">
-                      <span>{song.year}年</span>
+                  <div className="flex space-x-4">
+                    {/* ジャケット画像 */}
+                    <div className="flex-shrink-0">
+                      <Image
+                        src={song.image || "/images/albums/placeholder.svg"}
+                        alt="ジャケット画像"
+                        width={64}
+                        height={64}
+                        sizes="64px"
+                        className="object-cover border border-[#2A2A2A] song-card"
+                        style={{
+                          width: "64px",
+                          height: "64px",
+                          objectFit: "contain",
+                          objectPosition: "center",
+                          flexShrink: 0,
+                          backgroundColor: "#2A2A2A",
+                        }}
+                        onError={() => {
+                          // Next.js Imageコンポーネントは自動的にエラーハンドリングを行う
+                        }}
+                      />
                     </div>
-                    <p className="text-xs text-gray-500 leading-relaxed">
-                      {song.note}
-                    </p>
+
+                    {/* 楽曲情報 */}
+                    <div className="flex-1 space-y-2">
+                      <h4 className="text-lg font-semibold text-[#EDEDED]">
+                        {song.title}
+                      </h4>
+                      <p className="text-sm text-gray-400">{song.artist}</p>
+                      <div className="flex items-center space-x-4 text-xs text-gray-500">
+                        <span>{song.year}年</span>
+                      </div>
+                      <p className="text-xs text-gray-500 leading-relaxed">
+                        {song.note}
+                      </p>
+                    </div>
                   </div>
                 </div>
               ))}

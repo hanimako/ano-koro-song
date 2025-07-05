@@ -3,6 +3,7 @@ export interface Song {
   artist: string;
   year: number;
   note: string;
+  image?: string; // ジャケット画像のパス（オプショナル）
 }
 
 export interface AgeGroup {
