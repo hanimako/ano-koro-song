@@ -654,13 +654,7 @@
         "note": "JYP×ソニーミュージックの\"Nizi Project\"発プレデビュー曲。\"縄跳びダンス\"を皮切りにYouTube4億再生を突破。",
         "image": "/images/albums/Make you happy.jpg"
       },
-      {
-        "title": "フォニイ",
-        "artist": "ツミキ feat. 可不",
-        "year": 2021,
-        "note": "ボカロ可不が歌う現代的疎外感ソング。YouTube1億再生を超え、歌ってみた・TikTokカバーで二次創作が拡散。",
-        "image": "/images/albums/フォニイ.jpg"
-      },
+
       {
         "title": "白目",
         "artist": "King Gnu",
@@ -750,6 +744,20 @@
         "year": 2016,
         "note": "ボカロ殿堂入り。歌ってみた・合唱部カバーの定番曲。",
         "image": "/images/albums/シャルル.jpg"
+      },
+      {
+        "title": "フォニイ",
+        "artist": "ツミキ feat. 可不",
+        "year": 2021,
+        "note": "ボカロ可不が歌う現代的疎外感ソング。YouTube1億再生を超え、歌ってみた・TikTokカバーで二次創作が拡散。",
+        "image": "/images/albums/フォニイ.jpg"
+      },
+      {
+        "title": "ミックスナッツ",
+        "artist": "Official髭男dism",
+        "year": 2022,
+        "note": "アニメ『SPY×FAMILY』OP。スウィング系リズムと家族テーマが響き、ストリーミング累計5億回を突破するロングヒットに。",
+        "image": "/images/albums/ミックスナッツ.jag"
       }
     ]
   }
