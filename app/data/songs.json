@@ -8,42 +8,48 @@
         "artist": "並木路子",
         "year": 1945,
         "note": "戦後第一号の映画主題歌として全国に広まり、復興期の希望を象徴した歌。",
-        "image": "/images/albums/リンゴの唄.jpg"
+        "image": "/images/albums/リンゴの唄.jpg",
+        "youtube": "https://www.youtube.com/watch?v=Gf0jDTOyF4U"
       },
       {
         "title": "東京ブギウギ",
         "artist": "笠置シヅ子",
         "year": 1947,
         "note": "ジャズ仕込みのブギで若者を躍らせ、\"ブギの女王\"の名を決定づけた。",
-        "image": "/images/albums/東京ブギウギ.jpg"
+        "image": "/images/albums/東京ブギウギ.jpg",
+        "youtube": "https://www.youtube.com/watch?v=0e-AiyIjydI"
       },
       {
         "title": "憧れのハワイ航路",
         "artist": "岡晴夫",
         "year": 1948,
         "note": "南国への夢を歌い上げ、海外旅行がまだ遠かった時代に強い憧憬を呼んだ。",
-        "image": "/images/albums/憧れのハワイ航路.jpg"
+        "image": "/images/albums/憧れのハワイ航路.jpg",
+        "youtube": "https://www.youtube.com/watch?v=avVzCPj35pE"
       },
       {
         "title": "青い山脈",
         "artist": "藤山一郎・奈良光枝",
         "year": 1949,
         "note": "同名映画と共に明るい青春像を広め、世代を超えて歌われる定番に。",
-        "image": "/images/albums/藤山一郎・奈良光枝.jpg"
+        "image": "/images/albums/藤山一郎・奈良光枝.jpg",
+        "youtube": "https://www.youtube.com/watch?v=EuDHCSw-4tc"
       },
       {
         "title": "星の流れに",
         "artist": "菊池章子",
         "year": 1947,
         "note": "戦後の哀歓を情緒豊かに描き、進駐軍ラジオでも人気を博した名演歌。",
-        "image": "/images/albums/星の流れに.jpg"
+        "image": "/images/albums/星の流れに.jpg",
+        "youtube": "https://www.youtube.com/watch?v=Xa0Jl71N7ag"
       },
       {
         "title": "テネシーワルツ",
         "artist": "江利チエミ",
         "year": 1952,
         "note": "米国カントリー曲を日本語カバーし 150 万枚超の戦後初ミリオン。洋楽ポップス受容の先駆けとなった名唱。",
-        "image": "/images/albums/テネシーワルツ.jpg"
+        "image": "/images/albums/テネシーワルツ.jpg",
+        "youtube": "https://www.youtube.com/watch?v=rs3P-Xm3UGg"
       }
     ]
   },
@@ -56,49 +62,56 @@
         "artist": "坂本九",
         "year": 1961,
         "note": "国内200万枚、米Billboard1位の快挙で\"SUUKIYAKI現象\"を生んだ国民歌。",
-        "image": "/images/albums/上を向いて歩こう.jpg"
+        "image": "/images/albums/上を向いて歩こう.jpg",
+        "youtube": "https://www.youtube.com/watch?v=8Omyf8JVdww"
       },
       {
         "title": "いつでも夢を",
         "artist": "橋幸夫・吉永小百合",
         "year": 1962,
         "note": "デュエットと青春映画の相乗効果で大ヒット、日本レコード大賞を受賞。",
-        "image": "/images/albums/いつでも夢を.jpg"
+        "image": "/images/albums/いつでも夢を.jpg",
+        "youtube": "https://www.youtube.com/watch?v=elpvPpRnp0o"
       },
       {
         "title": "リンゴ追分",
         "artist": "美空ひばり",
         "year": 1952,
         "note": "天才少女ひばりの歌唱力を世に示し、民謡調コブシが広く愛された曲。",
-        "image": "/images/albums/リンゴ追分.jpg"
+        "image": "/images/albums/リンゴ追分.jpg",
+        "youtube": "https://www.youtube.com/watch?v=GePX3KQZv0I"
       },
       {
         "title": "恋のバカンス",
         "artist": "ザ・ピーナッツ",
         "year": 1963,
         "note": "洒落たハーモニーとツイストビートで日本ポップスに先進性を刻んだ。",
-        "image": "/images/albums/恋のバカンス.jpg"
+        "image": "/images/albums/恋のバカンス.jpg",
+        "youtube": "https://www.youtube.com/watch?v=mXmoFVuoaVM"
       },
       {
         "title": "有楽町で逢いましょう",
         "artist": "フランク永井",
         "year": 1957,
         "note": "夜のネオン街を舞台にしたムード歌謡の金字塔で、大人の社交文化を象徴。",
-        "image": "/images/albums/有楽町で逢いましょう.jpg"
+        "image": "/images/albums/有楽町で逢いましょう.jpg",
+        "youtube": "https://www.youtube.com/watch?v=jZicShlWj2g"
       },
       {
         "title": "高校三年生",
         "artist": "舟木一夫",
         "year": 1963,
         "note": "学園青春歌謡の頂点として卒業式の定番曲になった舟木一夫の代表作。",
-        "image": "/images/albums/高校三年生.jpg"
+        "image": "/images/albums/高校三年生.jpg",
+        "youtube": "https://www.youtube.com/watch?v=jnNvTTDZJvc"
       },
       {
         "title": "スーダラ節",
         "artist": "植木等とクレージーキャッツ",
         "year": 1961,
         "note": "\"無責任男\"の脱力ギャグソングが大ブーム。サラリーマン社会を風刺し、コミックソング文化を全国区に押し上げた。",
-        "image": "/images/albums/スーダラ節.jpg"
+        "image": "/images/albums/スーダラ節.jpg",
+        "youtube": "https://www.youtube.com/watch?v=trkhZ06KFSY&list=RDtrkhZ06KFSY&start_radio=1"
       }
     ]
   },
@@ -111,63 +124,72 @@
         "artist": "かぐや姫",
         "year": 1973,
         "note": "同棲ブームとフォーク文化を代弁し、若者の暮らしをリアルに映したミリオンヒット。",
-        "image": "/images/albums/神田川.jpg"
+        "image": "/images/albums/神田川.jpg",
+        "youtube": "https://www.youtube.com/watch?v=JSgyHiKESGw"
       },
       {
         "title": "また逢う日まで",
         "artist": "尾崎紀世彦",
         "year": 1971,
         "note": "迫力ある低音と転調で魅了し、第13回レコード大賞を受賞した\"別れ歌\"の決定版。",
-        "image": "/images/albums/また逢う日まで.jpg"
+        "image": "/images/albums/また逢う日まで.jpg",
+        "youtube": "https://www.youtube.com/watch?v=-4OJ78bZVsA"
       },
       {
         "title": "心の旅",
         "artist": "チューリップ",
         "year": 1973,
         "note": "新幹線CMと共にヒットした爽やかな旅立ちソングで、フォークからポップへの橋渡し。",
-        "image": "/images/albums/心の旅.jpg"
+        "image": "/images/albums/心の旅.jpg",
+        "youtube": "https://www.youtube.com/watch?v=QbuhFRr0alA"
       },
       {
         "title": "ブルー・シャトウ",
         "artist": "ジャッキー吉川とブルー・コメッツ",
         "year": 1967,
         "note": "グループサウンズ最盛期を象徴し、青い衣装とコーラスが話題を呼んだ。",
-        "image": "/images/albums/ブルー・シャトウ.jpg"
+        "image": "/images/albums/ブルー・シャトウ.jpg",
+        "youtube": "https://www.youtube.com/watch?v=-_yRKtjcOvY"
       },
       {
         "title": "君といつまでも",
         "artist": "加山雄三",
         "year": 1965,
         "note": "若大将シリーズ映画曲で\"幸せだなぁ\"のセリフが流行語になった青春歌。",
-        "image": "/images/albums/君といつまでも.jpg"
+        "image": "/images/albums/君といつまでも.jpg",
+        "youtube": "https://www.youtube.com/watch?v=Lmm2qCOui1A"
       },
       {
         "title": "学生街の喫茶店",
         "artist": "ガロ",
         "year": 1972,
         "note": "アコースティックサウンドで学生生活の郷愁を掻き立てた70年代青春の象徴。",
-        "image": "/images/albums/学生街の喫茶店.jpg"
+        "image": "/images/albums/学生街の喫茶店.jpg",
+        "youtube": "https://www.youtube.com/watch?v=SFtJJt9TO18"
       },
       {
         "title": "なごり雪",
         "artist": "イルカ",
         "year": 1975,
         "note": "卒業シーズンの定番バラード。フォークブーム後期を象徴し、世代を超えて歌い継がれる。",
-        "image": "/images/albums/なごり雪.jpg"
+        "image": "/images/albums/なごり雪.jpg",
+        "youtube": "https://www.youtube.com/watch?v=wYji_1r9b4g"
       },
       {
         "title": "時代",
         "artist": "中島みゆき",
         "year": 1975,
         "note": "\"まわる まわるよ\" のフレーズで知られる励ましの名曲。NHK紅白でも度々披露され、普遍的メッセージが支持される。",
-        "image": "/images/albums/時代.jpg"
+        "image": "/images/albums/時代.jpg",
+        "youtube": "https://www.youtube.com/watch?v=aOOpDfmy7mw"
       },
       {
         "title": "ブルーライト・ヨコハマ",
         "artist": "いしだあゆみ",
         "year": 1968,
         "note": "港町の夜景を甘い歌声で描き、1969 年オリコン年間 1 位。都会派女性歌謡のスタンダードとして定着。",
-        "image": "/images/albums/ブルーライト・ヨコハマ.jpg"
+        "image": "/images/albums/ブルーライト・ヨコハマ.jpg",
+        "youtube": "https://www.youtube.com/watch?v=msbuasBdpMw"
       }
     ]
   },
@@ -180,77 +202,88 @@
         "artist": "サザンオールスターズ",
         "year": 1979,
         "note": "珠玉のバラードが150万枚、後に教科書にも掲載された国民的ラブソング。",
-        "image": "/images/albums/いとしのエリー.jpg"
+        "image": "/images/albums/いとしのエリー.jpg",
+        "youtube": "https://www.youtube.com/watch?v=dLahlDRpgG0"
       },
       {
         "title": "津軽海峡・冬景色",
         "artist": "石川さゆり",
         "year": 1977,
         "note": "雪と汽笛をモチーフにしたドラマチック演歌で、紅白名場面の定番。",
-        "image": "/images/albums/津軽海峡・冬景色.jpg"
+        "image": "/images/albums/津軽海峡・冬景色.jpg",
+        "youtube": "https://www.youtube.com/watch?v=EgoK_A2Uemg"
       },
       {
         "title": "ルビーの指環",
         "artist": "寺尾聰",
         "year": 1981,
         "note": "11週連続1位を記録し、クールな大人像を打ち出したシティポップの名曲。",
-        "image": "/images/albums/ルビーの指環.jpg"
+        "image": "/images/albums/ルビーの指環.jpg",
+        "youtube": "https://www.youtube.com/watch?v=FatlTpHAo5s"
       },
       {
         "title": "赤いスイートピー",
         "artist": "松田聖子",
         "year": 1982,
         "note": "清純派アイドル像を決定づけ、春の恋を彩る定番フレーズが浸透。",
-        "image": "/images/albums/赤いスイートピー.jpg"
+        "image": "/images/albums/赤いスイートピー.jpg",
+        "youtube": "https://www.youtube.com/watch?v=2Htj6AChzTE"
       },
       {
         "title": "クリスマス・イブ",
         "artist": "山下達郎",
         "year": 1983,
         "note": "35年連続チャートインのギネス記録を持つ日本屈指の冬ソング。",
-        "image": "/images/albums/クリスマス・イブ.jpg"
+        "image": "/images/albums/クリスマス・イブ.jpg",
+        "youtube": "https://www.youtube.com/watch?v=x8CgehqveLI"
       },
       {
         "title": "いい日旅立ち",
         "artist": "山口百恵",
         "year": 1978,
         "note": "国鉄キャンペーン曲として旅情を喚起し、旅立つ人への応援歌となった。",
-        "image": "/images/albums/いい日旅立ち.jpg"
+        "image": "/images/albums/いい日旅立ち.jpg",
+        "youtube": "https://www.youtube.com/watch?v=dQ_4Jmqf2eU"
       },
       {
         "title": "木綿のハンカチーフ",
         "artist": "太田裕美",
         "year": 1975,
         "note": "都会へ旅立つ恋人を想う女性視点の歌詞が共感を呼んだ切ない名曲。",
-        "image": "/images/albums/木綿のハンカチーフ.jpg"
+        "image": "/images/albums/木綿のハンカチーフ.jpg",
+        "youtube": "https://www.youtube.com/watch?v=4kavnmW3EqA"
       },
       {
         "title": "卒業写真",
         "artist": "荒井由実",
         "year": 1975,
         "note": "友との距離感を描いた名バラードで、卒業シーズンの定番ソング。",
-        "image": "/images/albums/荒井由実.jpg"
+        "image": "/images/albums/荒井由実.jpg",
+        "youtube": "https://www.youtube.com/watch?v=EXWdrQcN274"
       },
       {
         "title": "Plastic Love",
         "artist": "竹内まりや",
         "year": 1984,
         "note": "YouTube逆輸入で世界的に再評価されたシティポップ代表曲。都会的サウンドが令和にもバズを起こした。",
-        "image": "/images/albums/Plastic Love.jpg"
+        "image": "/images/albums/Plastic Love.jpg",
+        "youtube": "https://www.youtube.com/watch?v=T_lC2O1oIew"
       },
       {
         "title": "異邦人",
         "artist": "久保田早紀",
         "year": 1979,
         "note": "エキゾチックな旋律が話題となり135万枚超。オリコン1位で\"社会派フォーク後期\"を代表。",
-        "image": "/images/albums/異邦人.jpg"
+        "image": "/images/albums/異邦人.jpg",
+        "youtube": "https://www.youtube.com/watch?v=HgvzyBkYsKU"
       },
       {
         "title": "UFO",
         "artist": "ピンク・レディー",
         "year": 1977,
         "note": "振付ブームの頂点。1978年年間1位・100万枚突破で\"踊れる女性デュオ\"旋風を巻き起こした。",
-        "image": "/images/albums/UFO.jpg"
+        "image": "/images/albums/UFO.jpg",
+        "youtube": "https://www.youtube.com/watch?v=s0cPknq3K6k"
       }
     ]
   },
@@ -263,77 +296,88 @@
         "artist": "ZARD",
         "year": 1993,
         "note": "24時間テレビのテーマ曲として\"がんばれソング\"の代名詞に。",
-        "image": "/images/albums/負けないで.jpg"
+        "image": "/images/albums/負けないで.jpg",
+        "youtube": "https://www.youtube.com/watch?v=_4DJkOUU648"
       },
       {
         "title": "SAY YES",
         "artist": "CHAGE & ASKA",
         "year": 1991,
         "note": "ドラマ'101回目のプロポーズ'主題歌で282万枚を突破したラブバラード。",
-        "image": "/images/albums/SAY YES.jpg"
+        "image": "/images/albums/SAY YES.jpg",
+        "youtube": "https://www.youtube.com/watch?v=Q9qAyt0G-jM"
       },
       {
         "title": "ラブ・ストーリーは突然に",
         "artist": "小田和正",
         "year": 1991,
         "note": "月9ドラマ効果で270万枚、爽快なギターカッティングが印象的。",
-        "image": "/images/albums/ラブ・ストーリーは突然に.jpg"
+        "image": "/images/albums/ラブ・ストーリーは突然に.jpg",
+        "youtube": "https://www.youtube.com/watch?v=LDe0rbDromY"
       },
       {
         "title": "どんなときも。",
         "artist": "槇原敬之",
         "year": 1991,
         "note": "等身大の励ましを歌い、就職氷河期世代の背中を押した応援歌。",
-        "image": "/images/albums/どんなときも。.jpg"
+        "image": "/images/albums/どんなときも。.jpg",
+        "youtube": "https://www.youtube.com/watch?v=b88pxLpMZKk"
       },
       {
         "title": "TRUE LOVE",
         "artist": "藤井フミヤ",
         "year": 1993,
         "note": "青春ドラマ主題歌として切ないメロディが共感を呼び180万枚。",
-        "image": "/images/albums/TRUE LOVE.jpg"
+        "image": "/images/albums/TRUE LOVE.jpg",
+        "youtube": "https://www.youtube.com/watch?v=RvIWD9xV4e8"
       },
       {
         "title": "Diamonds",
         "artist": "プリンセス プリンセス",
         "year": 1989,
         "note": "ガールズバンド史上初のミリオンを記録したパンキッシュな代表曲。",
-        "image": "/images/albums/Diamonds.jpg"
+        "image": "/images/albums/Diamonds.jpg",
+        "youtube": "https://www.youtube.com/watch?v=IKjRLKQo7O0"
       },
       {
         "title": "愛は勝つ",
         "artist": "KAN",
         "year": 1990,
         "note": "素朴なピアノポップで\"信じる心\"を歌い、1990年最大ヒットに。",
-        "image": "/images/albums/愛は勝つ.jpg"
+        "image": "/images/albums/愛は勝つ.jpg",
+        "youtube": "https://www.youtube.com/watch?v=-eQcHcINM2M"
       },
       {
         "title": "ロマンスの神様",
         "artist": "広瀬香美",
         "year": 1993,
         "note": "ゲレンデCMで冬の定番を確立、\"ウィンターソングの女王\"を決定づけた。",
-        "image": "/images/albums/ロマンスの神様.jpg"
+        "image": "/images/albums/ロマンスの神様.jpg",
+        "youtube": "https://www.youtube.com/watch?v=T8yZWCg85Cs"
       },
       {
         "title": "川の流れのように",
         "artist": "美空ひばり",
         "year": 1989,
         "note": "平成\"国民歌\"アンケートで常に上位、ひばり最後の大ヒットバラード。",
-        "image": "/images/albums/川の流れのように.jpg"
+        "image": "/images/albums/川の流れのように.jpg",
+        "youtube": "https://www.youtube.com/watch?v=SOCjkXBeKRs"
       },
       {
         "title": "ジュリアに傷心",
         "artist": "チェッカーズ",
         "year": 1984,
         "note": "オリコン3週連続1位、93万枚。男性アイドルバンド人気を決定づけた80年代青春ロック歌謡。",
-        "image": "/images/albums/ジュリアに傷心.jpg"
+        "image": "/images/albums/ジュリアに傷心.jpg",
+        "youtube": "https://www.youtube.com/watch?v=vdPIPVsx0B0"
       },
       {
         "title": "DESIRE -情熱-",
         "artist": "中森明菜",
         "year": 1986,
         "note": "第28回レコード大賞受賞。シャープな振付と衣装で130万枚、昭和アイドルの頂点を象徴。",
-        "image": "/images/albums/DESIRE -情熱-.jpg"
+        "image": "/images/albums/DESIRE -情熱-.jpg",
+        "youtube": "https://www.youtube.com/watch?v=CCfRM-2M62k"
       }
     ]
   },
@@ -346,84 +390,96 @@
         "artist": "宇多田ヒカル",
         "year": 1999,
         "note": "760万枚の歴代アルバム1位、R&Bブームの幕開けを告げたデビュー曲。",
-        "image": "/images/albums/First Love.jpg"
+        "image": "/images/albums/First Love.jpg",
+        "youtube": "https://www.youtube.com/watch?v=o1sUaVJUeB0"
       },
       {
         "title": "Boys & Girls",
         "artist": "浜崎あゆみ",
         "year": 1999,
         "note": "ギャル文化とカリスマ浜崎を広めたアッパーチューン、ミリオンヒット。",
-        "image": "/images/albums/Boys & Girls.jpg"
+        "image": "/images/albums/Boys & Girls.jpg",
+        "youtube": "https://www.youtube.com/watch?v=Sw_cTMqHQ1w"
       },
       {
         "title": "LOVE PHANTOM",
         "artist": "B'z",
         "year": 1995,
         "note": "壮大なイントロと疾走感でB'z人気を不動にした186万枚の大ヒット。",
-        "image": "/images/albums/LOVE PHANTOM.jpg"
+        "image": "/images/albums/LOVE PHANTOM.jpg",
+        "youtube": "https://www.youtube.com/watch?v=ON4NXPUx-E8"
       },
       {
         "title": "Tomorrow never knows",
         "artist": "Mr.Children",
         "year": 1994,
         "note": "ドラマ主題歌で276万枚、日本ロック最大級のセールスを記録。",
-        "image": "/images/albums/Tomorrow never knows.jpg"
+        "image": "/images/albums/Tomorrow never knows.jpg",
+        "youtube": "https://www.youtube.com/watch?v=Nxwt_s1lM04"
       },
       {
         "title": "Love, Day After Tomorrow",
         "artist": "倉木麻衣",
         "year": 1999,
         "note": "鮮烈デビューを飾り、R&B路線の女子高生シンガー像を確立した。",
-        "image": "/images/albums/Love, Day After Tomorrow.jpg"
+        "image": "/images/albums/Love, Day After Tomorrow.jpg",
+        "youtube": "https://www.youtube.com/watch?v=a5Qb-ZAl5UM"
       },
       {
         "title": "DEPARTURES",
         "artist": "globe",
         "year": 1996,
         "note": "TKサウンド黄金期を象徴し、ゲレンデ恋愛ブームを牽引。",
-        "image": "/images/albums/DEPARTURES.jpg"
+        "image": "/images/albums/DEPARTURES.jpg",
+        "youtube": "https://www.youtube.com/watch?v=Z-asfMte17s"
       },
       {
         "title": "HOWEVER",
         "artist": "GLAY",
         "year": 1997,
         "note": "王道バラードとして結婚式ソングの定番になり、134万枚を突破。",
-        "image": "/images/albums/HOWEVER.jpg"
+        "image": "/images/albums/HOWEVER.jpg",
+        "youtube": "https://www.youtube.com/watch?v=gPcPseeICjs"
       },
       {
         "title": "そばかす",
         "artist": "JUDY AND MARY",
         "year": 1996,
         "note": "アニメ'るろうに剣心'OPでポップパンク旋風を巻き起こした青春曲。",
-        "image": "/images/albums/そばかす.jpg"
+        "image": "/images/albums/そばかす.jpg",
+        "youtube": "https://www.youtube.com/watch?v=Fy4MForBPqc"
       },
       {
         "title": "空も飛べるはず",
         "artist": "スピッツ",
         "year": 1994,
         "note": "ドラマ'白線流し'挿入歌でロングヒットし、卒業シーズンの定番に。",
-        "image": "/images/albums/空も飛べるはず.jpg"
+        "image": "/images/albums/空も飛べるはず.jpg",
+        "youtube": "https://www.youtube.com/watch?v=h-kQw4JqCHE"
       },
       {
         "title": "世界に一つだけの花",
         "artist": "SMAP",
         "year": 2003,
         "note": "\"ナンバーワンよりオンリーワン\"のメッセージが国民的アンセムに。",
-        "image": "/images/albums/世界に一つだけの花.jpg"
+        "image": "/images/albums/世界に一つだけの花.jpg",
+        "youtube": "https://www.youtube.com/watch?v=n69cLnXHas4"
       },
       {
         "title": "Everything",
         "artist": "MISIA",
         "year": 2000,
         "note": "ドラマ主題歌で190万枚。ウエディング・平成バラードの代表格として長期支持を獲得。",
-        "image": "/images/albums/Everything.jpg"
+        "image": "/images/albums/Everything.jpg",
+        "youtube": "https://www.youtube.com/watch?v=aHIR33pOUv0"
       },
       {
         "title": "Grateful Days",
         "artist": "Dragon Ash",
         "year": 1999,
         "note": "Zeebra & Aimee guest参加でジャンル融合。オリコン1位・80万枚超え、J-HIPHOP大衆化の突破口となった。",
-        "image": "/images/albums/Grateful Days.jpg"
+        "image": "/images/albums/Grateful Days.jpg",
+        "youtube": "https://www.youtube.com/watch?v=zSYP29oFBk0"
       }
     ]
   },
@@ -436,105 +492,120 @@
         "artist": "GReeeeN",
         "year": 2008,
         "note": "着うた9週連続1位、甲子園主題歌で友情と恋愛を彩った国民歌。",
-        "image": "/images/albums/キセキ.jpg"
+        "image": "/images/albums/キセキ.jpg",
+        "youtube": "https://www.youtube.com/watch?v=DwTinTO0o9I"
       },
       {
         "title": "Heavy Rotation",
         "artist": "AKB48",
         "year": 2010,
         "note": "\"ヘビロテ\"が流行語となり、カラオケ43週連続1位を記録。",
-        "image": "/images/albums/Heavy Rotation.jpg"
+        "image": "/images/albums/Heavy Rotation.jpg",
+        "youtube": "https://www.youtube.com/watch?v=lkHlnWFnA0c"
       },
       {
         "title": "千本桜",
         "artist": "WhiteFlame feat. 初音ミク",
         "year": 2011,
         "note": "和ロック調のボカロ曲がネットで爆発し、カバー多数のネット民国歌。",
-        "image": "/images/albums/千本桜.jpg"
+        "image": "/images/albums/千本桜.jpg",
+        "youtube": "https://www.youtube.com/watch?v=shs0rAiwsGQ"
       },
       {
         "title": "小さな恋のうた",
         "artist": "MONGOL800",
         "year": 2001,
         "note": "インディーズながら200万枚規模のロングヒット、バンドカバーの定番。",
-        "image": "/images/albums/小さな恋のうた.jpg"
+        "image": "/images/albums/小さな恋のうた.jpg",
+        "youtube": "https://www.youtube.com/watch?v=u8EkSB9zSpE"
       },
       {
         "title": "ハナミズキ",
         "artist": "一青窈",
         "year": 2004,
         "note": "優しい旋律で卒業式や結婚式の定番、幅広い世代に愛される。",
-        "image": "/images/albums/ハナミズキ.jpg"
+        "image": "/images/albums/ハナミズキ.jpg",
+        "youtube": "https://www.youtube.com/watch?v=TngUo1gDNOg"
       },
       {
         "title": "青春アミーゴ",
         "artist": "修二と彰",
         "year": 2005,
         "note": "ドラマ仕込みのユニットが生んだ平成最大のジャニーズミリオン。",
-        "image": "/images/albums/青春アミーゴ.jpg"
+        "image": "/images/albums/青春アミーゴ.jpg",
+        "youtube": "https://www.youtube.com/watch?v=dAW8QaZV_LY"
       },
       {
         "title": "君の名は希望",
         "artist": "乃木坂46",
         "year": 2013,
         "note": "\"君を守る\"メッセージが乃木坂46の清楚系イメージを決定づけた。",
-        "image": "/images/albums/君の名は希望.jpg"
+        "image": "/images/albums/君の名は希望.jpg",
+        "youtube": "https://www.youtube.com/watch?v=pbe9JhR3cY8"
       },
       {
         "title": "打上花火",
         "artist": "DAOKO × 米津玄師",
         "year": 2017,
         "note": "アニメ映画'打ち上げ花火、下から見るか? 横から見るか?'主題歌。YouTube再生6億超で\"夏の終わり\"を象徴する定番に。",
-        "image": "/images/albums/打上花火.jpg"
+        "image": "/images/albums/打上花火.jpg",
+        "youtube": "https://www.youtube.com/watch?v=-tKVN2mAKRI"
       },
       {
         "title": "アイネクライネ",
         "artist": "米津玄師",
         "year": 2014,
         "note": "セルフ制作MVが3億再生突破。\"ボカロPから国民的SSW\"へと羽ばたく転機になった叙情バラード。",
-        "image": "/images/albums/アイネクライネ.jpg"
+        "image": "/images/albums/アイネクライネ.jpg",
+        "youtube": "https://www.youtube.com/watch?v=-EKxzId_Sj4"
       },
       {
         "title": "God knows...",
         "artist": "涼宮ハルヒ(平野綾)",
         "year": 2006,
         "note": "アニメ'涼宮ハルヒの憂鬱'挿入歌。高速ギターとボーカルでバンド勢のカバー定番曲に。",
-        "image": "/images/albums/God knows....jpg"
+        "image": "/images/albums/God knows....jpg",
+        "youtube": "https://www.youtube.com/watch?v=WWB01IuMvzA"
       },
       {
         "title": "Gee",
         "artist": "少女時代",
         "year": 2010,
         "note": "\"Gee Gee Gee♪\"のフレーズとダンスが大ヒット。日本にK-POPガールズ旋風を起こした火付け役。",
-        "image": "/images/albums/Gee.jpg"
+        "image": "/images/albums/Gee.jpg",
+        "youtube": "https://www.youtube.com/watch?v=mpoKx48WmEM"
       },
       {
         "title": "Butterfly",
         "artist": "木村カエラ",
         "year": 2009,
         "note": "配信ミリオン達成。結婚式ソングとして不動の人気を誇り、花嫁入場の定番曲となった。",
-        "image": "/images/albums/Butterfly.jpg"
+        "image": "/images/albums/Butterfly.jpg",
+        "youtube": "https://www.youtube.com/watch?v=h5b-tBZfsT8"
       },
       {
         "title": "ロキ",
         "artist": "みきとP feat. 鏡音リン",
         "year": 2018,
         "note": "超高速ロックと韻遊びが魅力。TikTokでの歌唱・演奏カバー多数でボカロ再ブームの象徴曲に。",
-        "image": "/images/albums/ロキ.jpg"
+        "image": "/images/albums/ロキ.jpg",
+        "youtube": "https://www.youtube.com/watch?v=Xg-qfsKN2_E"
       },
       {
         "title": "シルエット",
         "artist": "KANA-BOON",
         "year": 2014,
         "note": "アニメ'NARUTO -ナルト- 疾風伝'OP曲。青春疾走感とギターリフで国内外にファンを拡大したロックアンセム。",
-        "image": "/images/albums/シルエット.jpg"
+        "image": "/images/albums/シルエット.jpg",
+        "youtube": "https://www.youtube.com/watch?v=ZFoJYI7Q4iA"
       },
       {
         "title": "恋",
         "artist": "星野源",
         "year": 2016,
         "note": "ドラマ『逃げるは恥だが役に立つ』主題歌。\"恋ダンス\"動画が社会現象となり、配信累計300万DL超で平成後期の大ヒットに。",
-        "image": "/images/albums/恋.jpg"
+        "image": "/images/albums/恋.jpg",
+        "youtube": "https://www.youtube.com/watch?v=jhOVibLEDhA"
       }
     ]
   },
@@ -547,105 +618,120 @@
         "artist": "Official髭男dism",
         "year": 2022,
         "note": "ドラマ'silent'主題歌。ストリーミング累計7億回超で\"ドラ泣き\"ブームを牽引。",
-        "image": "/images/albums/Subtitle.jpg"
+        "image": "/images/albums/Subtitle.jpg",
+        "youtube": "https://www.youtube.com/watch?v=hN5MBlGv2Ac"
       },
       {
         "title": "可愛くてごめん",
         "artist": "HoneyWorks feat. かぴ",
         "year": 2022,
         "note": "\"量産型女子\"ブームを生んだ自己肯定ソング。TikTok振付動画が1億再生を突破。",
-        "image": "/images/albums/可愛くてごめん.jpg"
+        "image": "/images/albums/可愛くてごめん.jpg",
+        "youtube": "https://www.youtube.com/watch?v=a3FgmTfvJhA"
       },
       {
         "title": "Ditto",
         "artist": "NewJeans",
         "year": 2022,
         "note": "ミニマルR&Bサウンドと手振りダンスが世界的バイラル。日本のストリーミングでも週間1位。",
-        "image": "/images/albums/Ditto.jpg"
+        "image": "/images/albums/Ditto.jpg",
+        "youtube": "https://www.youtube.com/watch?v=Km71Rr9K-Bw"
       },
       {
         "title": "怪獣の花唄",
         "artist": "Vaundy",
         "year": 2020,
         "note": "YouTube3億再生、カラオケ上位常連。ライブ映えで\"次世代フェス王\"を印象付けた。",
-        "image": "/images/albums/怪獣の花唄.jpg"
+        "image": "/images/albums/怪獣の花唄.jpg",
+        "youtube": "https://www.youtube.com/watch?v=UM9XNpgrqVk"
       },
       {
         "title": "第ゼロ感",
         "artist": "10-FEET",
         "year": 2022,
         "note": "映画'THE FIRST SLAM DUNK'主題歌。スタジアム級合唱でロック人気を再燃。",
-        "image": "/images/albums/第ゼロ感.jpg"
+        "image": "/images/albums/第ゼロ感.jpg",
+        "youtube": "https://www.youtube.com/watch?v=EsJGbHJyXYc"
       },
       {
         "title": "祝福",
         "artist": "YOASOBI",
         "year": 2022,
         "note": "'機動戦士ガンダム 水星の魔女'OP。物語性とサビの高揚感でYouTube2億再生突破。",
-        "image": "/images/albums/祝福.jpg"
+        "image": "/images/albums/祝福.jpg",
+        "youtube": "https://www.youtube.com/watch?v=3eytpBOkOFA"
       },
       {
         "title": "Lemon",
         "artist": "米津玄師",
         "year": 2018,
         "note": "配信累計歴代1位級。喪失と再生を歌い、平成末期の国民歌に。",
-        "image": "/images/albums/Lemon.jpg"
+        "image": "/images/albums/Lemon.jpg",
+        "youtube": "https://www.youtube.com/watch?v=SX_ViT4Ra7k"
       },
       {
         "title": "Pretender",
         "artist": "Official髭男dism",
         "year": 2019,
         "note": "ストリーミング6億超え。大人の失恋を爽やかに描いた新定番ポップ。",
-        "image": "/images/albums/Pretender.jpg"
+        "image": "/images/albums/Pretender.jpg",
+        "youtube": "https://www.youtube.com/watch?v=TQ8WlA2GXbk"
       },
       {
         "title": "夜に駆ける",
         "artist": "YOASOBI",
         "year": 2019,
         "note": "小説投稿サイト原作×楽曲で令和最初の大バイラル。YouTube8億再生。",
-        "image": "/images/albums/夜に駆ける.jpg"
+        "image": "/images/albums/夜に駆ける.jpg",
+        "youtube": "https://www.youtube.com/watch?v=x8VYWazR5mE&rco=1"
       },
       {
         "title": "さくら（独唱）",
         "artist": "森山直太朗",
         "year": 2003,
         "note": "卒業式合唱の定番。桜ソングのスタンダードとして歌い継がれる。",
-        "image": "/images/albums/さくら（独唱）.jpg"
+        "image": "/images/albums/さくら（独唱）.jpg",
+        "youtube": "https://www.youtube.com/watch?v=p_2F2lKV9uA"
       },
       {
         "title": "恋するフォーチュンクッキー",
         "artist": "AKB48",
         "year": 2013,
         "note": "\"恋チュンダンス\"動画が世界拡散。150万枚突破で平成後期の国民歌。",
-        "image": "/images/albums/恋するフォーチュンクッキー.jpg"
+        "image": "/images/albums/恋するフォーチュンクッキー.jpg",
+        "youtube": "https://www.youtube.com/watch?v=dFf4AgBNR1E"
       },
       {
         "title": "パプリカ",
         "artist": "Foorin",
         "year": 2018,
         "note": "NHK2020応援ソング。子どもと大人が一緒に踊れるダンス曲として定着。",
-        "image": "/images/albums/パプリカ.jpg"
+        "image": "/images/albums/パプリカ.jpg",
+        "youtube": "https://www.youtube.com/watch?v=T0valuAksuo"
       },
       {
         "title": "Dynamite",
         "artist": "BTS",
         "year": 2020,
         "note": "韓国アーティスト初のBillboard Hot 100 1位。日本でも配信チャート上位となり、グローバルK-POPの浸透を示した。",
-        "image": "/images/albums/Dynamite.jpg"
+        "image": "/images/albums/Dynamite.jpg",
+        "youtube": "https://www.youtube.com/watch?v=gdZLi9oWNZg"
       },
       {
         "title": "KICK BACK",
         "artist": "米津玄師",
         "year": 2022,
         "note": "アニメ『チェンソーマン』OP。常田大希との共作とモー娘。サンプリングが話題を呼び、Billboard Japanで4冠を達成。",
-        "image": "/images/albums/KICK BACK.jpg"
+        "image": "/images/albums/KICK BACK.jpg",
+        "youtube": "https://www.youtube.com/watch?v=M2cckDmNLMI"
       },
       {
         "title": "Make you happy",
         "artist": "NiziU",
         "year": 2020,
         "note": "JYP×ソニーミュージックの\"Nizi Project\"発プレデビュー曲。\"縄跳びダンス\"を皮切りにYouTube4億再生を突破。",
-        "image": "/images/albums/Make you happy.jpg"
+        "image": "/images/albums/Make you happy.jpg",
+        "youtube": "https://www.youtube.com/watch?v=QW28YKqdxe0"
       },
 
       {
@@ -653,7 +739,8 @@
         "artist": "King Gnu",
         "year": 2019,
         "note": "最新の楽曲として追加された曲。現代的なサウンドと歌詞で注目を集めている。",
-        "image": "/images/albums/白目.jpg"
+        "image": "/images/albums/白目.jpg",
+        "youtube": "https://www.youtube.com/watch?v=ony539T074w"
       }
     ]
   },
@@ -666,91 +753,104 @@
         "artist": "YOASOBI",
         "year": 2023,
         "note": "'推しの子'OP×TikTokバズでBillboard JAPAN総合16週連続・通算22週1位、Z世代推し文化の象徴。",
-        "image": "/images/albums/アイドル.jpg"
+        "image": "/images/albums/アイドル.jpg",
+        "youtube": "https://www.youtube.com/watch?v=ZRtdQ81jPUQ"
       },
       {
         "title": "新時代",
         "artist": "Ado",
         "year": 2022,
         "note": "映画ワンピ主題歌。Billboard総合5週連続・通算6週1位で\"歌い手文化\"を加速。",
-        "image": "/images/albums/新時代.jpg"
+        "image": "/images/albums/新時代.jpg",
+        "youtube": "https://www.youtube.com/watch?v=1FliVTcX8bQ"
       },
       {
         "title": "Super Shy",
         "artist": "NewJeans",
         "year": 2023,
         "note": "手振りダンスが世界的TikTokバズ、日韓ストリーミング上位。",
-        "image": "/images/albums/Super_Shy.jpg"
+        "image": "/images/albums/Super_Shy.jpg",
+        "youtube": "https://www.youtube.com/watch?v=ArmDp-zijuc"
       },
       {
         "title": "唱",
         "artist": "Ado",
         "year": 2023,
         "note": "USJコラボ曲。低音サビがクセになるダンスチャレンジ流行。",
-        "image": "/images/albums/唱.jpg"
+        "image": "/images/albums/唱.jpg",
+        "youtube": "https://www.youtube.com/watch?v=pgXpM4l_MwI"
       },
       {
         "title": "エジソン",
         "artist": "水曜日のカンパネラ",
         "year": 2023,
         "note": "奇抜リリック×覚えやすい振付で高校生の投稿動画が急増。",
-        "image": "/images/albums/エジソン.jpg"
+        "image": "/images/albums/エジソン.jpg",
+        "youtube": "https://www.youtube.com/watch?v=8tOIjOPZ5sA"
       },
       {
         "title": "Bling-Bang-Bang-Born",
         "artist": "Creepy Nuts",
         "year": 2024,
         "note": "アニメ'マッシュル'OP。和盆踊り調リズムで国内外バズ。",
-        "image": "/images/albums/Bling-Bang-Bang-Born.jpg"
+        "image": "/images/albums/Bling-Bang-Bang-Born.jpg",
+        "youtube": "https://www.youtube.com/watch?v=mLW35YMzELE"
       },
       {
         "title": "青のすみか",
         "artist": "キタニタツヤ",
         "year": 2023,
         "note": "'呪術廻戦'第2期OP。疾走感サビでTikTok歌ってみた急増。",
-        "image": "/images/albums/青のすみか.jpg"
+        "image": "/images/albums/青のすみか.jpg",
+        "youtube": "https://www.youtube.com/watch?v=zuoVd2QNxJo"
       },
       {
         "title": "青と夏",
         "artist": "Mrs. GREEN APPLE",
         "year": 2018,
         "note": "青春映画主題歌。夏フェス合唱とTikTok\"夏エモ\"動画定番。",
-        "image": "/images/albums/青と夏.jpg"
+        "image": "/images/albums/青と夏.jpg",
+        "youtube": "https://www.youtube.com/watch?v=m34DPnRUfMU"
       },
       {
         "title": "炎",
         "artist": "LiSA",
         "year": 2020,
         "note": "映画'鬼滅の刃'主題歌。紅白歌唱で国民的アニソン化。",
-        "image": "/images/albums/炎.jpg"
+        "image": "/images/albums/炎.jpg",
+        "youtube": "https://www.youtube.com/watch?v=4DxL6IKmXx4"
       },
       {
         "title": "前前前世",
         "artist": "RADWIMPS",
         "year": 2016,
         "note": "'君の名は。'主題歌。映画ブームと共に世界的ヒット。",
-        "image": "/images/albums/前前前世.jpg"
+        "image": "/images/albums/前前前世.jpg",
+        "youtube": "https://www.youtube.com/watch?v=vLGQQbjZc5A"
       },
       {
         "title": "シャルル",
         "artist": "バルーン feat. flower",
         "year": 2016,
         "note": "ボカロ殿堂入り。歌ってみた・合唱部カバーの定番曲。",
-        "image": "/images/albums/シャルル.jpg"
+        "image": "/images/albums/シャルル.jpg",
+        "youtube": "https://www.youtube.com/watch?v=TA5OFS_xX0c"
       },
       {
         "title": "フォニイ",
         "artist": "ツミキ feat. 可不",
         "year": 2021,
         "note": "ボカロ可不が歌う現代的疎外感ソング。YouTube1億再生を超え、歌ってみた・TikTokカバーで二次創作が拡散。",
-        "image": "/images/albums/フォニイ.jpg"
+        "image": "/images/albums/フォニイ.jpg",
+        "youtube": "https://www.youtube.com/watch?v=9QLT1Aw_45s"
       },
       {
         "title": "ミックスナッツ",
         "artist": "Official髭男dism",
         "year": 2022,
         "note": "アニメ『SPY×FAMILY』OP。スウィング系リズムと家族テーマが響き、ストリーミング累計5億回を突破するロングヒットに。",
-        "image": "/images/albums/ミックスナッツ.jpg"
+        "image": "/images/albums/ミックスナッツ.jpg",
+        "youtube": "https://www.youtube.com/watch?v=CbH2F0kXgTY"
       }
     ]
   }

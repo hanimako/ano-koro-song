@@ -4,6 +4,7 @@ export interface Song {
   year: number;
   note: string;
   image?: string; // ジャケット画像のパス（オプショナル）
+  youtube?: string; // YouTubeリンク（オプショナル）
 }
 
 export interface AgeGroup {
