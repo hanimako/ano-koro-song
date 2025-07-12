@@ -47,7 +47,7 @@ export default function Home() {
         {/* ヘッダー */}
         <header className="text-center">
           <h1 className="text-2xl font-bold text-[#EDEDED]">
-            年代ごとの人気曲
+            世代の定番ミュージック
           </h1>
         </header>
 
